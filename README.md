@@ -14,7 +14,9 @@ Zoe Jordan [@Zoejordan012](https://github.com/Zoejordan012)
 
 ## Dataset Description
 
-## Questions
+## Question 1
+
+### Importance 
 
 ## Manipulations Applied
 
