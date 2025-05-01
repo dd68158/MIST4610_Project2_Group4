@@ -70,4 +70,4 @@ The data suggests a need for increased law enforcement presence and improved sur
 
 ## Tableau Packaged Workbook
 
-[Download Tableau Workbook](https://github.com/dd68158/MIST4610_Project2_Group4/blob/main/MIST%204610%20Group%20Project%202.twbx)
+[Download Tableau Workbook](https://github.com/dd68158/MIST4610_Project2_Group4/blob/main/MIST%204610%20Group%20Project%202.twbx?raw=true)
