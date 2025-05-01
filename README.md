@@ -46,6 +46,7 @@ Arson and Homicide were excluded through a filter in the Offense category. This 
 ## Analysis and Results
 
 ### Question 1
+<img width="582" alt="Screenshot 2025-05-01 at 2 03 50 PM" src="https://github.com/user-attachments/assets/bff6b658-1d0b-4e4b-b681-2ef72cc51c49" />
 
 Results
 
@@ -57,6 +58,7 @@ Understanding time-specific crime trends can help law enforcement and city plann
 
 
 ### Question 2
+<img width="618" alt="Screenshot 2025-05-01 at 2 04 15 PM" src="https://github.com/user-attachments/assets/a9db2e73-7404-4972-bcd0-303cf190b6be" />
 
 Results
 
