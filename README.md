@@ -5,15 +5,15 @@
 
 ## Team Members
 
-Ashleigh Myers [@ashleigh-myers](https://github.com/ashleigh-myers)
+Ashleigh Myers [@ashleigh-myers] (https://github.com/ashleigh-myers)
 
-Daniel Ding [@dd68158](https://github.com/dd68158)
+Daniel Ding [@dd68158] (https://github.com/dd68158)
 
-Shraeyas Muthaiah [@shraeyasam](https://github.com/shraeyasam)
+Shraeyas Muthaiah [@shraeyasam] (https://github.com/shraeyasam)
 
-Palak Kaur [@palakxkaur](https://github.com/palakxkaur)
+Palak Kaur [@palakxkaur] (https://github.com/palakxkaur)
 
-Zoe Jordan [@Zoejordan012](https://github.com/Zoejordan012)
+Zoe Jordan [@Zoejordan012] (https://github.com/Zoejordan012)
 
 ## Scenario
 A politician in DC is concerned about crime and what she can do to best serve her constituents. She is concerned about where and what time of day different crimes are occurring. She is working on policies dealing with crime prevention and budgets. 
